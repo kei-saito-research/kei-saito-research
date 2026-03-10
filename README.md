@@ -5,7 +5,7 @@ I build frameworks for ambiguity-preserving AI instead of jumping to conclusions
 **Start here:** [NRR Series Hub](https://github.com/kei-saito-research/nrr-series-hub)
 
 ## At a Glance
-- 8 public repositories (7 research lines + 1 series hub)
+- 9 public repositories (8 research lines + 1 series hub)
 - 2 public arXiv papers
 - Ongoing pre-submission lines with manuscript snapshots and reproducibility assets
 
@@ -21,11 +21,12 @@ I build frameworks for ambiguity-preserving AI instead of jumping to conclusions
 ## Repositories
 - [nrr-core](https://github.com/kei-saito-research/nrr-core) — Core framework
 - [nrr-phi](https://github.com/kei-saito-research/nrr-phi) — Text-to-state mapping
-- [nrr-ime](https://github.com/kei-saito-research/nrr-ime) — Stateless API setting / structure-aware optimization
+- [nrr-ime](https://github.com/kei-saito-research/nrr-ime) — Interface decomposition for stable state transitions on stateless LLM APIs
 - [nrr-transfer](https://github.com/kei-saito-research/nrr-transfer) — Cross-domain transfer behavior
 - [nrr-coupled](https://github.com/kei-saito-research/nrr-coupled) — Dependency-coupled update rules
 - [nrr-principles](https://github.com/kei-saito-research/nrr-principles) — Design principles and policy patterns
 - [nrr-boundary](https://github.com/kei-saito-research/nrr-boundary) — Provider-pattern-order boundary mapping
+- [nrr-projection](https://github.com/kei-saito-research/nrr-projection) — Phi companion theory line with a condition-bounded interpretive link to Boundary
 
 ## Contact
 - ORCID iD: https://orcid.org/0009-0006-4715-9176
