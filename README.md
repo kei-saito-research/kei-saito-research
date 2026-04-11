@@ -6,7 +6,7 @@ I build ambiguity-preserving AI frameworks that study when a system should commi
 
 ## At a Glance
 - 2 public arXiv papers: `NRR-Core` and `NRR-Phi`
-- Current public active lines: `reuse` (submission line currently on hold), `NRR-Coupled`, `NRR-Patterns`, `NRR-Projection`, `NRR-Energy`, `NRR-Guarantee`
+- Current public active lines: `hidden-state-interface-reuse` (`reuse`, currently on hold), `NRR-Coupled`, `NRR-Patterns`, `NRR-Projection`, `NRR-Energy`, `NRR-Guarantee`, `post-acceptance-gap (PAG)`
 - Historical continuity surfaces are preserved when a newer authority line replaces an older repo label
 
 ## Public arXiv Papers
@@ -14,10 +14,11 @@ I build ambiguity-preserving AI frameworks that study when a system should commi
 - **NRR-Phi**: [arXiv:2601.19933](https://arxiv.org/abs/2601.19933)
 
 ## Current Series Read
-- `paper3` is intentionally skipped and never reused.
-- The current authoritative `paper5` line is the standalone `reuse` repository; `nrr-transfer` is kept for historical continuity, and the current standalone `reuse` submission handling remains on hold.
+- Public naming follows repository and manuscript titles rather than older internal number labels.
+- The current authoritative standalone `reuse` line lives in `hidden-state-interface-reuse`; `nrr-transfer` is kept for historical continuity, and the current standalone `reuse` submission handling remains on hold.
 - The former standalone `Principles / Boundary` zone now lives on as `NRR-Patterns`, while `nrr-principles` and `nrr-boundary` are retained as historical continuity surfaces.
 - `NRR-Projection` is the current public companion theory line and is not a numbered main-series paper.
+- `post-acceptance-gap (PAG)` is the current public release surface for the bounded explicit-state-carrying line.
 - `IME` is currently on hold while the standalone `reuse` submission outcome is pending.
 
 ## Repositories
@@ -25,15 +26,16 @@ I build ambiguity-preserving AI frameworks that study when a system should commi
 - [nrr-core](https://github.com/kei-saito-research/nrr-core) - Core framework
 - [nrr-phi](https://github.com/kei-saito-research/nrr-phi) - Text-to-state mapping
 - [nrr-ime](https://github.com/kei-saito-research/nrr-ime) - Interface decomposition line, currently on hold
-- [hidden-state-interface-reuse](https://github.com/kei-saito-research/hidden-state-interface-reuse) - current authoritative standalone `reuse` line for `paper5`; current submission handling is on hold
-- [nrr-transfer](https://github.com/kei-saito-research/nrr-transfer) - historical continuity repository for the older `paper5-nrr-transfer-*` line
+- [hidden-state-interface-reuse](https://github.com/kei-saito-research/hidden-state-interface-reuse) - current authoritative standalone `reuse` line; current submission handling is on hold
+- [nrr-transfer](https://github.com/kei-saito-research/nrr-transfer) - historical continuity repository for the older `transfer`-named surface
 - [nrr-coupled](https://github.com/kei-saito-research/nrr-coupled) - public pre-submission supporting line for dependency-coupled update rules
-- [nrr-patterns](https://github.com/kei-saito-research/nrr-patterns) - public pre-submission integrated `paper7` authority and current mainline for the former `Principles / Boundary` zone
+- [nrr-patterns](https://github.com/kei-saito-research/nrr-patterns) - public pre-submission authority and current mainline for the former `Principles / Boundary` zone
 - [nrr-principles](https://github.com/kei-saito-research/nrr-principles) - historical/source continuity surface
 - [nrr-boundary](https://github.com/kei-saito-research/nrr-boundary) - historical/support continuity surface
 - [nrr-projection](https://github.com/kei-saito-research/nrr-projection) - public pre-submission companion theory line
 - [nrr-energy](https://github.com/kei-saito-research/nrr-energy) - public pre-submission calibration / operational-control authority line
 - [nrr-guarantee](https://github.com/kei-saito-research/nrr-guarantee) - public pre-submission bounded verification / assurance authority line
+- [post-acceptance-gap](https://github.com/kei-saito-research/post-acceptance-gap) - public release surface for the bounded explicit-state-carrying `PAG` line
 
 ## What You'll Find Here
 - Manuscript snapshots under each repository's `manuscript/current/`
