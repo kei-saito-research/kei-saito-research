@@ -16,7 +16,7 @@ I build ambiguity-preserving AI frameworks that study when a system should commi
 ## Current Series Read
 - Public naming follows repository and manuscript titles rather than older internal number labels.
 - The current authoritative standalone `reuse` line lives in `hidden-state-interface-reuse`; `nrr-transfer` is kept for historical continuity, and the current standalone `reuse` submission handling remains on hold.
-- The former standalone `Principles / Boundary` zone now lives on as `NRR-Patterns`, while `nrr-principles` and `nrr-boundary` are retained as historical continuity surfaces.
+- The former standalone `Principles / Boundary` zone now lives on as `NRR-Patterns`, while `nrr-principles` and `nrr-boundary` are retained as public archive surfaces.
 - `NRR-Projection` is the current public companion theory line and is not a numbered main-series paper.
 - `post-acceptance-gap (PAG)` is the current public release surface for the bounded explicit-state-carrying line.
 - `IME` is currently on hold while the standalone `reuse` submission outcome is pending.
@@ -30,8 +30,8 @@ I build ambiguity-preserving AI frameworks that study when a system should commi
 - [nrr-transfer](https://github.com/kei-saito-research/nrr-transfer) - historical continuity repository for the older `transfer`-named surface
 - [nrr-coupled](https://github.com/kei-saito-research/nrr-coupled) - public pre-submission supporting line for dependency-coupled update rules
 - [nrr-patterns](https://github.com/kei-saito-research/nrr-patterns) - public pre-submission authority and current mainline for the former `Principles / Boundary` zone
-- [nrr-principles](https://github.com/kei-saito-research/nrr-principles) - historical/source continuity surface
-- [nrr-boundary](https://github.com/kei-saito-research/nrr-boundary) - historical/support continuity surface
+- [nrr-principles](https://github.com/kei-saito-research/nrr-principles) - public archive for the older principles and pre-patterns integration surfaces
+- [nrr-boundary](https://github.com/kei-saito-research/nrr-boundary) - public archive for the older standalone boundary surface
 - [nrr-projection](https://github.com/kei-saito-research/nrr-projection) - public pre-submission companion theory line
 - [nrr-energy](https://github.com/kei-saito-research/nrr-energy) - public pre-submission calibration / operational-control authority line
 - [nrr-guarantee](https://github.com/kei-saito-research/nrr-guarantee) - public pre-submission bounded verification / assurance authority line
