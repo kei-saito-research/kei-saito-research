@@ -15,9 +15,6 @@ Some public repositories preserve earlier material, rejected or superseded route
 
 - [hidden-state-interface-reuse](https://github.com/kei-saito-research/hidden-state-interface-reuse)
 - [nrr-ime](https://github.com/kei-saito-research/nrr-ime)
-- [nrr-transfer](https://github.com/kei-saito-research/nrr-transfer)
-- [nrr-principles](https://github.com/kei-saito-research/nrr-principles)
-- [nrr-boundary](https://github.com/kei-saito-research/nrr-boundary)
 
 ## Work In Preparation
 
