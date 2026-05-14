@@ -9,9 +9,9 @@ I build ambiguity-preserving AI frameworks that study when a system should commi
 - **NRR-Core**: [arXiv:2512.13478](https://arxiv.org/abs/2512.13478) / [code](https://github.com/kei-saito-research/nrr-core)
 - **NRR-Phi**: [arXiv:2601.19933](https://arxiv.org/abs/2601.19933) / [code](https://github.com/kei-saito-research/nrr-phi)
 
-## Historical Public Archives
+## Public Material Archives
 
-Some public repositories preserve earlier paper/package lines, rejected or superseded routes, and provenance snapshots. They are not presented as current active publication routes.
+Some public repositories preserve earlier material, rejected or superseded routes, and provenance snapshots. They are not presented as current active publication routes or current paper fronts.
 
 - [hidden-state-interface-reuse](https://github.com/kei-saito-research/hidden-state-interface-reuse)
 - [nrr-ime](https://github.com/kei-saito-research/nrr-ime)
