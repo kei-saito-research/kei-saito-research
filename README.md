@@ -1,24 +1,21 @@
-# Kei Saito | Non-Resolution Reasoning (NRR)
+# Kei Saito | Research Profile
 
-I build ambiguity-preserving AI frameworks that study when a system should commit, defer, or keep uncertainty explicit under bounded conditions.
+I study ambiguity-preserving AI systems: when a model-facing controller should commit, defer, or keep uncertainty explicit under bounded conditions.
 
-**Start here:** [NRR Series Hub](https://github.com/kei-saito-research/nrr-series-hub)
+Current public repositories are limited to papers with an established public release path. Work in preparation remains private until a separate public-release gate is reached.
 
-## Current Public arXiv Papers
+## Current Public Papers
 
 - **NRR-Core**: [arXiv:2512.13478](https://arxiv.org/abs/2512.13478) / [code](https://github.com/kei-saito-research/nrr-core)
 - **NRR-Phi**: [arXiv:2601.19933](https://arxiv.org/abs/2601.19933) / [code](https://github.com/kei-saito-research/nrr-phi)
 
-## Public Material Archives
+## Series Index
 
-Some public repositories preserve earlier material, rejected or superseded routes, and provenance snapshots. They are not presented as current active publication routes or current paper fronts.
-
-- [hidden-state-interface-reuse](https://github.com/kei-saito-research/hidden-state-interface-reuse)
-- [nrr-ime](https://github.com/kei-saito-research/nrr-ime)
+[NRR Series Hub](https://github.com/kei-saito-research/nrr-series-hub) indexes the currently public NRR-titled papers. Later work may use separate repository names when released.
 
 ## Work In Preparation
 
-Other NRR-related repositories may exist publicly while their paper or release identity is still being prepared. They are not listed here as current public arXiv papers until their status is stable.
+Other manuscripts, including non-NRR-titled work, are not listed here until their public paper or release identity is stable.
 
 ## Notes on Claims
 
